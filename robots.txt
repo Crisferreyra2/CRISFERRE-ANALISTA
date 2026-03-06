@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crisferreyra2.github.io/CRISFERRE-ANALISTA/sitemap.xml
