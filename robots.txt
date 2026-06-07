@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://crisferreyra2.github.io/CRISFERRE-ANALISTA/sitemap.xml
+
+Sitemap: https://https://crisferre-analista-vtuz.vercel.app//sitemap.xml
